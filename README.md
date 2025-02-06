@@ -1,2 +1,2 @@
-# uv-container
+# dockerfile-uv
 Dockerfile for uv
